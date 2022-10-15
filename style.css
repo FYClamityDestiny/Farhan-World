@@ -1,0 +1,119 @@
+
+
+body{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#212121;
+    }
+    .menu {
+        list-style: none;
+        top:12.5px;
+        right:12.5px;
+        z-index: 834;
+        cursor: pointer;
+        position:fixed;
+        text-decoration:none;  
+    }
+    .menuitemhome{
+        float:left;
+        padding-top:2px;
+        padding-bottom:9px;
+        padding-left:6px;
+        padding-right:6px;
+        font-size:16px;
+        color:white;
+        font-family: 'Finlandica', sans-serif;
+        text-decoration:none;
+    }
+    #imglogo{
+    float:left;
+    margin:0px;
+    width:180px;
+    height:60px;
+    }
+    .menuitemhome:hover{
+        background-color:rgb(107, 107, 107);
+        text-decoration: none;
+    }
+    #Home{
+        font-family: 'Finlandica', sans-serif;
+      color:white;
+      margin-top:15%
+    }
+        .parallax-inner{
+        display:table-cell;
+        position:relative;
+        vertical-align: middle;
+        }
+        .menu{
+        list-style: none;
+        top:12.5px;
+        right:12.5px;
+        z-index: 834;
+        cursor: pointer;
+        position:fixed;
+        text-decoration:none;
+        }
+        .menuitemhome{
+        float:left;
+        padding-left:9px;
+        padding-right:9px;
+        font-size:16px;
+        color:white;
+        font-family: 'Finlandica', sans-serif;
+        }
+    
+        .menuitemhome a{
+        text-decoration:none;
+        color :white;
+        }
+        #contact{
+         background-color:#e9e187;
+        }
+        .contactE h3{
+        display:inline ;
+        }
+        #writing a{
+        text-decoration: underline !important;
+        }
+    .ListofCreations{
+    list-style: none;
+    font-family: 'Edu SA Beginner', cursive;
+    color:white
+    
+    }
+    .HomeItems{
+    color:white;
+    } 
+    h2{
+    color:white;
+    font-family:'Edu SA Beginner', cursive;
+    }
+    .paradiv{
+        color:white;
+        font-family:'Edu SA Beginner', cursive;
+    }
+    section{
+    margin-bottom:10%;
+    }
+    #spacing-iframe{
+    margin-right: 8px;
+    }
+    .youtube-profilepic{
+    border-radius:1111111px;
+    margin-right:8px;
+    margin-left:8px;
+    width:124px;
+    height:124px;
+    }
+    #personal a{
+    text-decoration:none;
+    }
+    .youtube-videos-FY{
+    margin:8px;
+    }
+    #BannerWKlyNews{
+    width:fit-content;
+    height:500px;
+    }
+    
